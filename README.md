@@ -15,7 +15,7 @@
   
 </pre>
 
-I am Ed, backend Developer 18 y.o! 👨‍💻
+Ed, backend Dev 18 y.o! 👨‍💻
 
 :page_with_curl: Изучаю:
 <br><br>
@@ -28,6 +28,6 @@ I am Ed, backend Developer 18 y.o! 👨‍💻
 <summary>:trophy: Стата для nerds🤓:</summary>
 <img src="https://bad-apple-github-readme.vercel.app/api?show_bg=1&username=Binarer&show_icons=true&theme=radical">
 
-🤙Связь со мной:
+Feedback:
 <br></br>
 <a href="https://t.me/plugpest" target="_blank"><img src="https://img.shields.io/badge/Telegram-%40plugpest-28a8ea"></a>
