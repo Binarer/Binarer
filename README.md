@@ -24,7 +24,7 @@ Ed, backend Dev 18 y.o! 👨‍💻
   <a href="https://github.com/lrdcxdes"><img height="169em" width="344em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Binarer&langs_count=3&theme=github_dark"/></a>
 </div>
 
-## :page_with_curl: Learn:
+## :page_with_curl: Skills:
 
 <br><br>
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
