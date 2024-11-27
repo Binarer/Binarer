@@ -1,4 +1,4 @@
-<a href="https://github.com/lrdcxdes"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 <pre>
              ,----------------,              ,---------,
         ,-----------------------,          ,"        ,"|
@@ -36,4 +36,4 @@ Ed, backend Dev 18 y.o! 👨‍💻
 ## Feedback
 <a href="https://t.me/plugpest" target="_blank"><img src="https://img.shields.io/badge/Telegram-%40plugpest-28a8ea"></a>
 <br><br>
-<a href="https://github.com/lrdcxdes"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
+><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
