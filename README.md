@@ -34,6 +34,6 @@ Ed, backend Dev 18 y.o! 👨‍💻
 ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
 
 ## Feedback
-<a href="https://t.me/plugpest" target="_blank"><img src="https://img.shields.io/badge/Telegram-%40plugpest-28a8ea"></a>
+<a href="https://t.me/wasitfallen" target="_blank"><img src="https://img.shields.io/badge/Telegram-%40wasitfallen-28a8ea"></a>
 <br><br>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
