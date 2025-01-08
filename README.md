@@ -21,7 +21,7 @@ Ed, backend Dev 18 y.o! 👨‍💻
 ## My GitHub Stats :trophy:
 <div>
   <a href="https://github.com/Binarer"><img height="169em" width="383em" src="https://github-readme-stats.vercel.app/api?username=Binarer&count_private=true&theme=github_dark&show_icons=true"/></a>
-  <a href="https://github.com/Binarer"><img height="169em" width="344em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Binarer&langs_count=10&theme=github_dark"/></a>
+  <a href="https://github.com/Binarer"><img height="169em" width="344em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Binarer&langs_count=6&theme=github_dark"/></a>
 </div>
 
 ## :page_with_curl: Skills:
