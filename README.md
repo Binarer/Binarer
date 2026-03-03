@@ -22,8 +22,9 @@ Ed, backend Dev 18 y.o! 👨‍💻
 <div>
   <!-- <a href="https://github.com/Binarer"><img height="169em" width="383em" src="https://github-readme-stats.vercel.app/api?username=Binarer&count_private=true&theme=github_dark&show_icons=true"/></a>
   <a href="https://github.com/Binarer"><img height="169em" width="383em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Binarer&langs_count=4&theme=github_dark"/></a> -->
-  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Binarer&theme=dark&background=000000)](https://git.io/streak-stats)
+<a href="https://git.io/streak-stats"><img src="http://github-readme-streak-stats.herokuapp.com?user=Binarer&theme=dark&mode=weekly" alt="GitHub Streak" /></a>
 </div>
+
 
 ## :page_with_curl: Skills:
 
