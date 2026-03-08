@@ -25,16 +25,6 @@ Ed, backend Dev 18 y.o! 👨‍💻
 <a href="https://git.io/streak-stats"><img src="http://github-readme-streak-stats.herokuapp.com?user=Binarer&theme=dark&mode=weekly" alt="GitHub Streak" /></a>
 </div>
 
-
-## :page_with_curl: Skills:
-
-<br><br>
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-![dotnet](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Spring boot](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
-![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
-
 ## Feedback
 <a href="https://t.me/wasitfallen" target="_blank"><img src="https://img.shields.io/badge/Telegram-%40wasitfallen-28a8ea"></a>
 <br><br>
