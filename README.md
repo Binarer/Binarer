@@ -20,8 +20,8 @@ Ed, backend Dev 19 y.o! 👨‍💻
 
 ## My GitHub Stats :trophy:
 <div>
-  <a href="https://github.com/Binarer"><img height="169em" width="383em" src="https://github-readme-stats.vercel.app/api?username=Binarer&count_private=true&theme=github_dark&show_icons=true"/></a>
-  <a href="https://github.com/Binarer"><img height="169em" width="383em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Binarer&langs_count=4&theme=github_dark"/></a>
+  <a href="https://github.com/MinakowDev"><img height="169em" width="383em" src="https://github-readme-stats.vercel.app/api?username=MinakowDev&count_private=true&theme=github_dark&show_icons=true"/></a>
+  <a href="https://github.com/MinakowDev"><img height="169em" width="383em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MinakowDev&langs_count=4&theme=github_dark"/></a>
 <a href="https://git.io/streak-stats"><img src="http://github-readme-streak-stats.herokuapp.com?user=MinakowDev&theme=dark&mode=weekly" alt="GitHub Streak" /></a>
 </div>
 
