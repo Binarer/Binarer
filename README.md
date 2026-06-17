@@ -3,11 +3,7 @@
 Ed, sofware engineer 19 y.o 
 
 ## My GitHub Stats :trophy:
-<div>
-  <a href="https://github.com/MinakowDev"><img height="169em" width="383em" src="https://github-readme-stats.vercel.app/api?username=MinakowDev&count_private=true&theme=github_dark&show_icons=true"/></a>
-  <a href="https://github.com/MinakowDev"><img height="169em" width="383em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MinakowDev&langs_count=4&theme=github_dark"/></a>
-<a href="https://git.io/streak-stats"><img src="http://github-readme-streak-stats.herokuapp.com?user=MinakowDev&theme=dark&mode=weekly" alt="GitHub Streak" /></a>
-</div>
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=abhisheknaiidu&show_icons=true&theme=gotham" alt="abhisheknaiidu" />
 
 ## Feedback
 <a href="https://t.me/wasitfallen" target="_blank"><img src="https://img.shields.io/badge/Telegram-%40wasitfallen-28a8ea"></a>
