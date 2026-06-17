@@ -16,7 +16,7 @@
   
 </pre>
 
-Ed, backend Dev 19 y.o! 👨‍💻
+Ed, sofware engineer 19 y.o 
 
 ## My GitHub Stats :trophy:
 <div>
